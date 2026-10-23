@@ -1,0 +1,41 @@
+ПІКМІ@DESKTOP-OUEOM20 MINGW64 /d/ІНТІТА/WEB/GITHUB/Zalik/Zalik_Git (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+ПІКМІ@DESKTOP-OUEOM20 MINGW64 /d/ІНТІТА/WEB/GITHUB/Zalik/Zalik_Git (main)
+$ git branch
+* main
+  other_vers
+
+ПІКМІ@DESKTOP-OUEOM20 MINGW64 /d/ІНТІТА/WEB/GITHUB/Zalik/Zalik_Git (main)
+$ git log
+commit 1eca1307fe592294848e2268b09176591edee7ad (HEAD -> main, origin/main, origin/HEAD)
+Author: Angelina <anhelinakovalska777@gmail.com>
+Date:   Fri Oct 23 10:03:36 2026 +0300
+
+    Add notes
+
+commit 3ff47d39617fb6e42f5ebc7aa822972fe8181965
+Author: schwarzAK <anhelinakovalska777@gmail.com>
+Date:   Fri Oct 23 09:56:22 2026 +0300
+
+    Change in h1 index,html
+
+commit 97cd628f2b77d0c7afd44c339c30003225505a1e
+Author: schwarzAK <anhelinakovalska777@gmail.com>
+Date:   Fri Oct 23 09:45:38 2026 +0300
+
+    Add file index.html
+
+commit fe21c4a77b8a8d59c884913a0afe1349fd5056bf
+Author: Angelina <anhelinakovalska777@gmail.com>
+Date:   Fri Oct 23 09:40:08 2026 +0300
+
+    Initial commit
+
+ПІКМІ@DESKTOP-OUEOM20 MINGW64 /d/ІНТІТА/WEB/GITHUB/Zalik/Zalik_Git (main)
+$ git log --merges
+
